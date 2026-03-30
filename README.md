@@ -1,6 +1,6 @@
 # 👨‍💻 QA Engineer (Junior)
 
-![Photo](https://via.placeholder.com/150)
+![Photo](image.png)
 
 ## 📌 О себе
 
@@ -61,4 +61,3 @@
 
 - GitHub: https://github.com/Sasler12
 - Email: keller.alex1lex@yandex.ru
-[Photo](image-1.png)
